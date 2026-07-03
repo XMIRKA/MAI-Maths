@@ -1,0 +1,6 @@
+{
+  "name": "Mirkamol AI Math",
+  "description": "Premium AI-powered math tutor and adaptive learning platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
